@@ -28,4 +28,4 @@ print(f"O valor das suas compras é de R${novo_preco:.2f}")
 #Multiplicar a quebra de linha, permite definir a quantidade de espaço de forma visual
 print("\n" * 2)   
 #Mensagem final para encerramento do programa
-print(f"\33[1m{'Obrigado por comprar na Lojas Phenix, volte sempre!':^60}\33[0m")
+print(f"\33[1m{'Obrigado por comprar nas Lojas Phenix, volte sempre!':^60}\33[0m")
